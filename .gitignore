@@ -1,0 +1,20 @@
+# Gradle files
+.gradle/
+.idea/
+*.iml
+/local.properties
+
+# Build files
+/build/
+app/build/
+*.apk
+*.aab
+
+# Dependency caches
+/.cxx/
+/.externalNativeBuild/
+
+# User-specific files
+*.log
+*.keystore
+*.jks
